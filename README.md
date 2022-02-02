@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 ### `npm install`
-Install dependencies before run the app.
+Install all the node modules and dependencies that are lsited in the package.json file. Then the project is ready to view in the development server.
 
 ### `npm start`
 
