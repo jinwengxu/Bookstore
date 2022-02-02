@@ -1,5 +1,5 @@
 # bookstore
-# Bookstore is a Single Page Application (SPA) using React router and React Hooks. The styling is using styled-components. 
+## Bookstore is a Single Page Application (SPA) using React router and React Hooks. The styling is using styled-components. 
 
 # Getting Started with Create React App
 
